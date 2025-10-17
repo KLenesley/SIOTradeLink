@@ -1,4 +1,4 @@
-console.log("Extension crée par Lenesley Kylian un élève de SIO au lycée NDLP");
+console.log("Extension crée par un étudiant en BTS SIO au lycée NDLP");
 
 // Fonction pour insérer le bouton
 function addRedirectionButton() {
@@ -37,6 +37,7 @@ function addRedirectionButton() {
       button.style.backgroundColor = '#ff0000'; // Restaure la couleur d'origine
     });
 
+    // Ajoute un gestionnaire d'événements pour la redirection
     button.addEventListener('click', () => {
       const url = `https://www.boursorama.com/cours/${id}`;
       console.log("Redirection vers :", url);

@@ -1,4 +1,4 @@
-# 🚀 SIOTradeLink v1
+# 🚀 SIOTradeLink v2
 
 ### *L'Excellence au Service de Vos Investissements*
 
